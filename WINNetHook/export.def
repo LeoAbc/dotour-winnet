@@ -1,0 +1,6 @@
+LIBRARY   BTREE
+EXPORTS
+   DetourFinishHelperProcess @1 NONAME
+   Hook_HttpSendRequestW   @2
+   Hook_HttpSendRequestExW   @3
+   TimedSleepEx @4
